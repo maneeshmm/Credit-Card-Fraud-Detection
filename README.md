@@ -5,6 +5,9 @@
 Credit card fraud detection is a critical task in financial security, aiming to identify fraudulent transactions while minimizing false positives. This project applies machine learning techniques to classify transactions as fraudulent or legitimate using an imbalanced dataset.
 
 ## Data Description
+You can find the dataset for this project on Kaggle:
+
+[Kaggle Link]([https://www.kaggle.com/your-kaggle-link-here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud))
 
 The dataset consists of transactions with 30 numerical features obtained from a PCA transformation. The 'Class' variable indicates whether a transaction is fraudulent (1) or legitimate (0). Due to a significant class imbalance, resampling techniques were used to balance the dataset.
 
