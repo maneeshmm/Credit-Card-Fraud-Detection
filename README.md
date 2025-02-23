@@ -7,7 +7,7 @@ Credit card fraud detection is a critical task in financial security, aiming to 
 ## Data Description
 You can find the dataset for this project on Kaggle:
 
-[Kaggle Link]([https://www.kaggle.com/your-kaggle-link-here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud))
+[Kaggle Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 The dataset consists of transactions with 30 numerical features obtained from a PCA transformation. The 'Class' variable indicates whether a transaction is fraudulent (1) or legitimate (0). Due to a significant class imbalance, resampling techniques were used to balance the dataset.
 
